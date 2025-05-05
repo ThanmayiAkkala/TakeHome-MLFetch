@@ -34,16 +34,17 @@ You can run this project either **directly** or **using Docker**.
 1. Clone this repository:
 
      ```bash
-   git clone https://github.com/your-username/ML_Apprentice_Assessment.git
-   cd ML_Apprentice_Assessment
-
+   git clone https://github.com/ThanmayiAkkala/TakeHome-MLFetch.git
+   cd TakeHome-MLFetch
+  
 2. Install the required Python libraries:
 
    ```bash
    pip install -r requirements.txt
 
 Start Jupyter Notebook:
-      jupyter notebook
+     ```jupyter notebook```
+
 
 Open ML_Assessment.ipynb and run the cells sequentially.
 
@@ -53,7 +54,6 @@ Docker ensures full environment reproducibility.
 Make sure Docker is installed and running.
 
 Build the Docker image:
-
       
       docker build -t ml-apprentice .
 
