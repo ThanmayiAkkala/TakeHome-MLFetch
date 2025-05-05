@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# SentenceTransformer-Assessment
-=======
 # ML Apprentice Take Home Assessment
 
 ## Overview
@@ -89,5 +86,3 @@ Jupyter Notebook
 
 Docker
 
-
->>>>>>> 8ce2ef9113921ceede80c570d584e90943aac6dd
